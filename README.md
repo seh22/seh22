@@ -9,7 +9,17 @@
   <img src = https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>&nbsp
 </div>
 
+<h3 align="center">🐸​ blog 🐸​</h3>
 
+<!--
+<div align="center">
+  <a href = "https://velog.io/@seh22">
+    <img src = https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@seh22>
+  </a>  
+
+  
+</div>
+-->
 
 
 
