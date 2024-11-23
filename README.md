@@ -2,6 +2,7 @@
   <img src = https://github.com/user-attachments/assets/c9c79f96-9320-4012-9b4c-70b62f2f7e46>
 </div>
 
+<br><br><br>
 
 <h3 align="center">🤔 Tech Stack 🤔</h3>
 <div align="center">
@@ -9,13 +10,12 @@
   <img src = https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>&nbsp
 </div>
 
-
-
+<br><br><br><br>
 
 <h3 align="center">🐸​ blog 🐸​</h3>
 <div align="center">
   <a href = "https://velog.io/@seh22">
-    <img src = https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@seh22>
+    <img src = https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@seh22>
   </a>  
 </div>
 
