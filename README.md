@@ -15,7 +15,7 @@
 <h3 align="center">🐸​ blog 🐸​</h3>
 <div align="center">
   <a href = "https://velog.io/@seh22" target="_blank">
-    <img src = https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@seh22>
+    <img src = https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white>
   </a>  
 </div>
 
